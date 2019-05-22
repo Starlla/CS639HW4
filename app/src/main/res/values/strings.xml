@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChuyuTongCS639HW4</string>
+    <string name="example">Example:</string>
+    <string name="create_your_own">Create Your Own:</string>
+    <string name="radius">Radius:</string>
+    <string name="speed">Speed:</string>
+    <string name="color">Color:</string>
+    <string name="add">ADD</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="radius_cannot_be_empty">Radius cannot be empty!</string>
+    <string name="radius_cannot_be_greater_than_40">Radius cannot be greater than 40!</string>
+    <string name="speed_cannot_be_empty">Speed cannot be empty!</string>
+    <string name="please_select_a_color">Please select a color!</string>
+
+</resources>
